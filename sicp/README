@@ -1,0 +1,12 @@
+SICP(Structure and Interpretation of Computer Programs) notes
+
+Books
+* Official SICP page with HTML version: http://mitpress.mit.edu/sicp/
+* Official HtDP(How to Design Programs) page: http://www.htdp.org/
+* A PDF version of SICP at github: https://github.com/sarabander/sicp-pdf
+* @pku: http://www.math.pku.edu.cn/teachers/qiuzy/progtech/
+
+Tools
+* Chez Scheme: http://www.scheme.com/
+* Racket: http://racket-lang.org/
+
